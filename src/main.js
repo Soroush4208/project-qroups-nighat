@@ -1,5 +1,5 @@
 // import { LoginPage } from './components/login/Login';
-import { CityList } from './components/CityList/CityList';
+import { CityList } from './components/user-list/CityList';
 import './style.css';
 
 // document.querySelector('#app').append(LoginPage());
